@@ -150,23 +150,7 @@ F1-Score: 90%
 
 ---
 
-## 📸 Application Screenshots
 
-Add your project screenshots here:
-
-### Home Page
-![Home Page](screenshots/home.png)
-
-### Prediction Page
-![Prediction Page](screenshots/prediction.png)
-
-### Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-### Result Page
-![Result Page](screenshots/result.png)
-
----
 
 ## 🎯 Future Enhancements
 
