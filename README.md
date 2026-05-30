@@ -167,7 +167,7 @@ F1-Score: 90%
 ## 👨‍💻 Author
 
 **Samarth Shinde**  
-Bachelor of Engineering (Computer Engineering)
+B.Tech (Computer Science and Engineering)
 
 ---
 
